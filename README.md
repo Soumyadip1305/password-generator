@@ -12,16 +12,9 @@ A responsive and customizable password generator built using **React** and **Tai
 - One-click clipboard copy
 - Responsive dark-themed UI
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-- ⚛️ React (Hooks: `useState`, `useEffect`, `useCallback`, `useRef`)
-- 🎨 Tailwind CSS (utility-first styling)
-- 📋 Clipboard API for copy functionality
-
-
-## 📦 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/soumyadip1305/password-generator.git
-   cd password-generator
+- **React** – Functional components and Hooks (`useState`, `useEffect`, `useCallback`, `useRef`)
+- **Tailwind CSS** – Utility-first styling
+- **JavaScript** – Random password logic
+- **Clipboard API** – For instant copy
