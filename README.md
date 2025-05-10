@@ -18,13 +18,10 @@ A responsive and customizable password generator built using **React** and **Tai
 - 🎨 Tailwind CSS (utility-first styling)
 - 📋 Clipboard API for copy functionality
 
-## 📸 Preview
-
-![password-generator-preview](preview.png) <!-- You can replace this with an actual screenshot URL -->
 
 ## 📦 Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/soumyadip1305/password-generator.git
    cd password-generator
